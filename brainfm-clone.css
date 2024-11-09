@@ -54,21 +54,21 @@ button:hover {
 }
 #column3 {
     width: 425px;
-    margin-right: 100px;
+    margin-right: 75px;
 }
 #column4 {
     width: 425px;
 }
 #pic1 {
     width: 70%;
-    max-width: 700px;
+    max-width: 800px;
     min-width: 200px;
 }
 #free-sessions {
     background-color: orange;
     color: white;
     font-weight: bold;
-    padding: 15px 30px;
+    padding: 15px 45px;
     margin-top: 15px;
     border-radius:30px;
     border: none;
