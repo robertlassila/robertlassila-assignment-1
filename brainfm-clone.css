@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(55, 11, 215, 0.915);
+    background-color: rgba(73, 18, 246);
     color: white;
     font-family: ARial;
 }
@@ -42,15 +42,16 @@ button:hover {
 .row {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     margin: 0px 20px;
 }
 #column1 {
     width: 425px;
 }
 #column2 {
-    display: flex;
-
+    width: 70%;
+    max-width: 800px;
+    min-width: 200px;
 }
 #column3 {
     width: 425px;
@@ -60,9 +61,7 @@ button:hover {
     width: 425px;
 }
 #pic1 {
-    width: 70%;
-    max-width: 800px;
-    min-width: 200px;
+    width: 100%;
 }
 #free-sessions {
     background-color: orange;
